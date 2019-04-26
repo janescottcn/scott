@@ -5,16 +5,16 @@
 # Site
 title: JaneScott
 subtitle:
-description:
+description: A peaceful zone for Jane && Scott.
 keywords:
-author: Jane
+author: Scott
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 106.12.196.200:8080
-root: /
+url: https://janescott.cn/jane
+root: /scott
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
