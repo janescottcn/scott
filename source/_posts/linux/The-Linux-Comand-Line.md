@@ -3,13 +3,12 @@ title: The Linux Command Line
 date: 2019-04-17 15:19:45
 description: 《The Linux Command Line》读书笔记
 tags:
-- Linux
+	- [Linux]
+	- [Opearation]
+	- [Learning]
 categories:
-- [Opearation]
-- [Coding]
-- [Learning]
-photos: [/images/linux_command_line.jpg]
-featured_image: [/images/linux_command_line.jpg]
+	- [System]
+featured_image: [http://cdn.janescott.cn/images/linux_command_line.jpg]
 ---
 ### 第一章  引言
 略
@@ -46,8 +45,11 @@ featured_image: [/images/linux_command_line.jpg]
 2. file确定文件类型
     ```file filename```
 3. less浏览文件内容
+    
+``````
+    
     ``````
-
+    
 4. 4
 5. 5
 6.

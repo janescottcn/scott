@@ -1,11 +1,12 @@
 ---
-title: 
-description:
+title: 基础数据类型——列表
 date: 2019-04-22 13:04:01
 tags: 
 	- [Python]
 	- [Learning]
-categories:	Coding
+categories:	
+	- [Coding]
+featured_image: [http://cdn.janescott.cn/images/python-logo.png]
 ---
 
 #### List(列表)

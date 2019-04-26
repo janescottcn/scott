@@ -1,5 +1,12 @@
 ---
-title: function
+title: 函数
+tags: 
+	- [Python]
+	- [Learning]
+categories:
+	- [Coding]
+date: 2019-04-25 11:23:10
+featured_image: [http://cdn.janescott.cn/images/python-logo.png]
 ---
 
 #### function 

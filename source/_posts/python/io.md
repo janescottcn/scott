@@ -1,5 +1,12 @@
 ---
-title: IO Operation
+title: 读写操作
+tags: 
+	- [Python]
+	- [Learning]
+categories:
+	- [Coding]
+date: 2019-04-26 09:10:15
+featured_image: [http://cdn.janescott.cn/images/python-logo.png]
 ---
 
 #### 路径分隔符

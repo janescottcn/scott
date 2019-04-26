@@ -1,5 +1,12 @@
 ---
-title: dict
+title: 基础数据类型——字典
+tags: 
+	- [Python]
+	- [Learning]
+categories:
+	- [Coding]
+date: 2019-04-24 14:43:10
+featured_image: [http://cdn.janescott.cn/images/python-logo.png]
 ---
 
 #### dict(字典)

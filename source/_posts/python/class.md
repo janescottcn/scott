@@ -1,5 +1,12 @@
 ---
 title : 面向对象编程——类
+tags: 
+	- [Python]
+	- [Learning]
+categories:
+	- [Coding]
+date: 2019-04-25 15:23:10
+featured_image: [http://cdn.janescott.cn/images/python-logo.png]
 ---
 
 #### 类和方法

@@ -1,5 +1,12 @@
 ---
-title: if while
+title: 条件、循环
+tags: 
+	- [Python]
+	- [Learning]
+categories:
+	- [Coding]
+date: 2019-04-25 13:50:12
+featured_image: [http://cdn.janescott.cn/images/python-logo.png]
 ---
 
 #### if
