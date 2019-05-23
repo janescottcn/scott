@@ -50,3 +50,28 @@ with open('file_name') as file_obj
 with open('file_name', 'mode') as file_obj
 	file_obj.write('content')
 ```
+
+#### Json
+
+- json.dump()
+
+  > 储存数据
+
+- json.load()
+
+  读取数据
+
+  ```python
+  # 导入模块
+  import json
+  # 定义数据
+  numbers = [1, 2, 3, 4]
+  
+  with open('data.json') as data
+  	# 写入数据
+    json.dump(numbers, data)
+    # 读取数据
+    info = json.load(data)
+  ```
+
+  
